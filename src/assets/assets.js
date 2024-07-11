@@ -14,4 +14,4 @@ export const assets = {
 	parcel_icon,
 };
 
-export const url = 'http://backend.tomatofoodcommerce.tech/';
+export const url = 'http://backend.tomatofoodcommerce.tech';
